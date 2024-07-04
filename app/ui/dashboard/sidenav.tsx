@@ -4,7 +4,7 @@ import DashboardLogo from '@/app/ui/dahsboard-logo'
 import { PowerIcon } from '@heroicons/react/24/outline';
 import { signOut } from '@/auth';
 
-export const experimental_ppr = true;
+// export const experimental_ppr = true;
 
 export default function SideNav() {
   return (
